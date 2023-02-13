@@ -7,3 +7,5 @@
 <a href="https://andre09moraes.github.io/HTML-CSS/meus-treinos/tr003/index.html" target="_blank">Tela de login</a>
 
 <a href="https://andre09moraes.github.io/HTML-CSS/meus-treinos/tr004/index.html" target="_blank">landing page</a>
+
+<a href="https://andre09moraes.github.io/HTML-CSS/desafios/d12/" target="_blank">Projeto cordel</a>
